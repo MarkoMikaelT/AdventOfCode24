@@ -1,0 +1,12 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "Advent of Code day 3.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "MMT",
+  "license": "ISC",
+  "type": "module"
+}
