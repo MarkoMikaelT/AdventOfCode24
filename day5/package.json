@@ -1,0 +1,12 @@
+{
+  "name": "day5",
+  "version": "1.0.0",
+  "description": "Advent of Code day 5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MMT",
+  "license": "ISC",
+  "type": "module"
+}
